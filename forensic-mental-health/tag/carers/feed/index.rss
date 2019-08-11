@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>carers &#8211; Forensic mental health services in Scotland</title>
+	<atom:link href="https://www.researchunbound.org.uk/forensic-mental-health/tag/carers/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.researchunbound.org.uk/forensic-mental-health</link>
+	<description>Exploring family carer involvement</description>
+	<lastBuildDate>Wed, 10 Apr 2019 15:01:16 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Family carer involvement in forensic mental health services</title>
+		<link>https://www.researchunbound.org.uk/forensic-mental-health/hi/</link>
+				<pubDate>Thu, 08 May 2014 15:26:28 +0000</pubDate>
+		<dc:creator><![CDATA[ianwatson]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[carers]]></category>
+		<category><![CDATA[forensic mental health]]></category>
+		<category><![CDATA[mental health]]></category>
+		<category><![CDATA[support services]]></category>
+
+		<guid isPermaLink="false">http://www.researchunbound.org.uk/forensic-mental-health/?p=110</guid>
+				<description><![CDATA[The research report was published in early 2014. This version on Research Unbound is broken down into sections to make it easy to comment and ask questions about each part of the report.  The idea is to stimulate discussion and action.  So please do comment! The report is also available to download in PDF: Exploring family carer involvement &#8230; <a href="https://www.researchunbound.org.uk/forensic-mental-health/hi/" class="more-link">Continue reading <span class="screen-reader-text">Family carer involvement in forensic mental health services</span></a>]]></description>
+								<content:encoded><![CDATA[<p>The research report was published in early 2014.</p>
+<p>This version on <a href="https://www.researchunbound.org.uk">Research Unbound</a> is broken down into sections to make it easy to comment and ask questions about each part of the report.  The idea is to stimulate discussion and action.  So please do comment!</p>
+<p>The report is also available to download in PDF:</p>
+<ul>
+<li><a href="https://www.researchunbound.org.uk/forensic-mental-health/wp-content/uploads/sites/20/2014/05/Exploring-family-carer-involvement-in-forensic-MH-services-full-report.pdf">Exploring family carer involvement in forensic mental health services -Full report (PDF)</a></li>
+<li><a href="https://www.researchunbound.org.uk/forensic-mental-health/wp-content/uploads/sites/20/2014/05/Exploring-family-carer-involvement-in-forensic-MH-services-summary-report.pdf">Executive Summary (PDF)</a></li>
+<li><a href="https://www.researchunbound.org.uk/forensic-mental-health/wp-content/uploads/sites/20/2014/05/Forensic-carers-plain-english-version-170314.pdf">Plain English version (PDF)</a></li>
+</ul>
+]]></content:encoded>
+										</item>
+	</channel>
+</rss>
